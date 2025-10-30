@@ -1,4 +1,4 @@
-<img width="258" alt="personely-photo-sam" src="https://github.com/user-attachments/assets/2481a852-41c3-4093-8706-67e458904b9d" />
+<!-- <img width="258" alt="personely-photo-sam" src="https://github.com/user-attachments/assets/2481a852-41c3-4093-8706-67e458904b9d" /> -->
 
 
 ## 👋 Hi, I'm Ehsan khalili abbas pour!
